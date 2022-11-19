@@ -1,13 +1,12 @@
-# Vue Ping
+# Ninja Ping & Status
 
-![Screenshot of Vue Ping](https://github.com/skadimoolam/ping/raw/gh-pages/screenshot.png "Screenshot of Vue Ping")
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskadimoolam%2Fping.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskadimoolam%2Fping?ref=badge_shield)
+check we site is live or dead.
 
 ## Description
 
 A Pretty simple utility built with Vue.js to check if a domain is live or down.
 
-Demo at https://skadimoolam.github.io/ping/
+Demo at https://status.ninja.tk
 
 There's no back-end where domains' details and their past status are stored.
 But there's a JSON file name `data.json`, with which you can customize the sites this app is tracking.
@@ -33,11 +32,12 @@ remove it completely.
 
 There's not much you can configure, take a look in the code below. Add or remove any site, should work as expected
 if not just make an issue here in Github.
+
 ``` json
 [
   {
-    "name": "Google IN",
-    "url": "google.co.in",
+    "name": "Ninja Tiny Kingdom",
+    "url": "ninja.tk",
     "port": 80
   },
   {
@@ -58,7 +58,7 @@ I built this tool for use on a server, if you wish to run it locally you need to
 ## License
 MIT License
 
-Copyright (c) 2017 Adi <skadimoolam@gmail.com>
+Copyright (c) 2022 ninja <hi@ninja.tk>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -77,6 +77,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fskadimoolam%2Fping.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fskadimoolam%2Fping?ref=badge_large)
