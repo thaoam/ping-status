@@ -5,17 +5,17 @@
     "port": 80
   },
   {
-    "name": "Google.com",
-    "url": "google.com",
-    "port": 443
+    "name": "Blackcat",
+    "url": "blackcat.tk",
+    "port": 80
   },
   {
-    "name": "Facebook",
-    "url": "facebook.com"
+    "name": "Thao Am",
+    "url": "thaoam.net"
   },
   {
     "name": "Some Random Site",
-    "url": "somerandomsite.com",
-    "port": 8080
+    "url": "ninjatinykingdom.com",
+    "port": 80
   }
 ]
