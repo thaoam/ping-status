@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Ninja Tiny Kingdom",
+    "url": "ninja.tk",
+    "port": 80
+  },
+  {
+    "name": "Google.com",
+    "url": "google.com",
+    "port": 443
+  },
+  {
+    "name": "Facebook",
+    "url": "facebook.com"
+  },
+  {
+    "name": "Some Random Site",
+    "url": "somerandomsite.com",
+    "port": 8080
+  }
+]
