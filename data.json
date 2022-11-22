@@ -2,36 +2,34 @@
   {
     "name": "Ninja Tiny Kingdom",
     "url": "ninja.tk",
-    "port": 80
+    "port": 443
   },
   {
     "name": "Blackcat",
     "url": "blackcat.tk",
-    "port": 80
+    "port": 443
   },
   {
     "name": "Thao Am",
-    "url": "thaoam.net"
+    "url": "thaoam.net" 
   },
   {
     "name": "Miền Tây 2",
     "url": "mientay2.net",
-    "port": 80
+    "port": 443
   },
   {
     "name": "Redirect System",
     "url": "redirect.ninja.tk",
-    "port": 80
+    "port": 443
   },
   {
     "name": "New88nice",
-    "url": "new88nice.com",
-    "port": 80
+    "url": "new88nice.com"
   },
   {
     "name": "Kéo thuê",
-    "url": "keothue.cc",
-    "port": 80
+    "url": "keothue.cc"
   },
   {
     "name": "Some Random Site",
