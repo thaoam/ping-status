@@ -24,6 +24,16 @@
     "port": 80
   },
   {
+    "name": "New88nice",
+    "url": "new88nice.com",
+    "port": 80
+  },
+  {
+    "name": "Kéo thuê",
+    "url": "keothue.cc",
+    "port": 80
+  },
+  {
     "name": "Some Random Site",
     "url": "ninjatinykingdom.com",
     "port": 80
