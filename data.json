@@ -26,7 +26,7 @@
   {
     "name": "New88nice",
     "url": "new88nice.com",
-    "port": 80
+    "port": 443
   },
   {
     "name": "Kéo thuê",
@@ -36,6 +36,11 @@
     "name": "Casino HP",
     "url": "casinohp.com",
     "port": 80
+  },
+  {
+    "name": "new379",
+    "url": "new379.com",
+    "port": 443
   },
   {
     "name": "Some Random Site",
