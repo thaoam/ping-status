@@ -32,6 +32,11 @@
     "url": "keothue.cc"
   },
   {
+    "name": "Casino HP",
+    "url": "casinohp.com",
+    "port": 80
+  },
+  {
     "name": "Some Random Site",
     "url": "ninjatinykingdom.com",
     "port": 80
