@@ -82,8 +82,8 @@
         getStatus: function () {
           let self = this;
           self.sites.forEach(function (site, index) {
-            let url = `http://${site.url}`;
-            if (site.port && site.port != 80 && site.port != 443) url = `https://${site.url}`;
+            let url = `https://${site.url}`;
+            if (site.port && site.port != 80 && site.port != 443) url += `${site.port}`;
 
             fetch(url, { mode: 'no-cors'})
               .then((resp) => {
