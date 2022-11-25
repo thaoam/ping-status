@@ -92,6 +92,8 @@
                 site.status = true;
                 if (!resp.ok || resp.status != 301)
                 site.status = true;
+                if (!resp.ok || resp.status != 302)
+                site.status = true;
                 if (resp.type == "opaque") site.status = true;
                 self.$set(self.sites, index, site);
               })
